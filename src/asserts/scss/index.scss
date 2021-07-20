@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Pacifico&display=swap');
+
+body{
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: white;
+    margin : 0;
+    padding : 0;
+
+    .my-navbar{
+        background-color: white;
+        padding: 10px 6%;
+        transition : all 0.3s ease;
+        margin-bottom  : 15px;
+        border-bottom-style:groove;
+      
+        
+        .navbar-brand{
+            font-family: 'Pacifico', cursive;
+            text-transform: capitalize;
+            font-size: 2rem;
+            color:black;
+        }
+
+        .dot{
+            color:red;
+            font-size: 1rem;
+        }
+        .nav-item{
+            font-size: 1.1rem;
+            font-weight: bold;
+            color:black;
+            margin-left: 0.8rem;
+        }
+
+        .log-in{
+            border-radius: 22px;
+            padding: 0.3rem 2rem;
+            margin-left: 1rem;
+            font-weight: bold;
+            background: linear-gradient(270deg, orangered,rgba(219, 17, 192, 0.808));
+            color: white;
+            text-align: center
+        }
+
+    }
+}
