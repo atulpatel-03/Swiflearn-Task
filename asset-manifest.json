@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Swiflearn-Task/static/css/main.db5cdb0f.chunk.css",
+    "main.js": "/Swiflearn-Task/static/js/main.821bb5e7.chunk.js",
+    "main.js.map": "/Swiflearn-Task/static/js/main.821bb5e7.chunk.js.map",
+    "runtime-main.js": "/Swiflearn-Task/static/js/runtime-main.15c72f8a.js",
+    "runtime-main.js.map": "/Swiflearn-Task/static/js/runtime-main.15c72f8a.js.map",
+    "static/js/2.5100690b.chunk.js": "/Swiflearn-Task/static/js/2.5100690b.chunk.js",
+    "static/js/2.5100690b.chunk.js.map": "/Swiflearn-Task/static/js/2.5100690b.chunk.js.map",
+    "index.html": "/Swiflearn-Task/index.html",
+    "static/css/main.db5cdb0f.chunk.css.map": "/Swiflearn-Task/static/css/main.db5cdb0f.chunk.css.map",
+    "static/js/2.5100690b.chunk.js.LICENSE.txt": "/Swiflearn-Task/static/js/2.5100690b.chunk.js.LICENSE.txt",
+    "static/media/sample.f085ca07.png": "/Swiflearn-Task/static/media/sample.f085ca07.png",
+    "static/media/swiflearn5.d27efe9f.png": "/Swiflearn-Task/static/media/swiflearn5.d27efe9f.png",
+    "static/media/swiflearn6.95bf94e4.png": "/Swiflearn-Task/static/media/swiflearn6.95bf94e4.png",
+    "static/media/swiflearn7.32dda708.png": "/Swiflearn-Task/static/media/swiflearn7.32dda708.png",
+    "static/media/swiflearn8.94c8e97a.png": "/Swiflearn-Task/static/media/swiflearn8.94c8e97a.png",
+    "static/media/swiflearn9.a061b959.png": "/Swiflearn-Task/static/media/swiflearn9.a061b959.png",
+    "static/media/tutor.0911c547.png": "/Swiflearn-Task/static/media/tutor.0911c547.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15c72f8a.js",
+    "static/js/2.5100690b.chunk.js",
+    "static/css/main.db5cdb0f.chunk.css",
+    "static/js/main.821bb5e7.chunk.js"
+  ]
+}
