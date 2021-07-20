@@ -5,14 +5,9 @@ import Login from "./components/Login";
 
 function App() {
   return (
-      <Router>
-        <Fragment>
-          <Switch>
-            <Route exact path="/" component={Dashboard} />
-            
-          </Switch>
-        </Fragment>
-      </Router>
+     <div className="app">
+       <Dashboard />
+     </div>
   
   );
 }

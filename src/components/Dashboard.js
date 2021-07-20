@@ -11,16 +11,27 @@ import "../asserts/scss/Dashboard.scss";
 import tutor from "../asserts/images/tutor.png";
 import ReactPlayer from 'react-player'
 
-const videos= ['https://youtu.be/nRPJC7K0miU','https://youtu.be/JgenG0tgQAo','https://youtu.be/Tr-TVt5JAWY','https://youtu.be/L88uuqmAioU','https://youtu.be/BtU1Z0PCq4I']
+const videos= ['https://youtu.be/nRPJC7K0miU',
+              'https://youtu.be/JgenG0tgQAo',
+              'https://youtu.be/Tr-TVt5JAWY',
+              'https://youtu.be/L88uuqmAioU',
+              'https://youtu.be/BtU1Z0PCq4I']
+
 const images = [swiflearn7, swiflearn8, swiflearn9, swiflearn6, swiflearn5,swiflearn6, swiflearn5];
-const classArray = [{ name:'Atul Patel',class:'12',topic:'P & C'},{ name:'Rahul Modi',class:'12',topic:'Conic Section'},{ name:'Rajat Kumar',class:'12',topic:'Organic Chemistry'},{ name:'Mayank Kumar',class:'12',topic:'NLM'},
-{ name:'Atul Patel',class:'11',topic:'P & C'},{ name:'Rahul Modi',class:'11',topic:'Conic Section'},{ name:'Rajat Kumar',class:'11',topic:'P-Block'},
-{ name:'Atul Patel',class:'10',topic:'Circle'},{ name:'Rajat Kumar',class:'10',topic:'Reproduction'},{ name:'Atul Patel',class:'10',topic:'topic 1'},
-{ name:'Atul Patel',class:'9',topic:'P & C'},{ name:'Tutor 1',class:'9',topic:'P & C'},{ name:'Tutor 2',class:'9',topic:'P & C'},
-{ name:'Tutor 1',class:'8',topic:'P & C'},{ name:'Tutor 2',class:'8',topic:'P & C'},{ name:'Tutor 3',class:'8',topic:'P & C'},
-{ name:'Tutor 1',class:'7',topic:'P & C'}, { name:'Tutor 2',class:'7',topic:'P & C'}, { name:'Tutor 3',class:'7',topic:'P & C'},
-{ name:'Tutor 1',class:'6',topic:'P & C'},{ name:'Tutor 2',class:'6',topic:'P & C'},{ name:'Tutor 3',class:'6',topic:'P & C'},
-{ name:'Tutor 1',class:'5',topic:'P & C'},{ name:'Tutor 2',class:'5',topic:'P & C'},{ name:'Tutor 3',class:'5',topic:'P & C'},];
+
+const classArray = [{ name:'Atul Patel',class:'12',topic:'P & C'},{ name:'Rahul Modi',class:'12',topic:'Conic Section'},
+                    { name:'Rajat Kumar',class:'12',topic:'Organic Chemistry'},{ name:'Mayank Kumar',class:'12',topic:'NLM'},
+                    { name:'Atul Patel',class:'11',topic:'P & C'},{ name:'Rahul Modi',class:'11',topic:'Conic Section'},
+                    { name:'Rajat Kumar',class:'11',topic:'P-Block'},{ name:'Atul Patel',class:'10',topic:'Circle'},
+                    { name:'Rajat Kumar',class:'10',topic:'Reproduction'},{ name:'Atul Patel',class:'10',topic:'topic 1'},
+                    { name:'Atul Patel',class:'9',topic:'P & C'},{ name:'Tutor 1',class:'9',topic:'P & C'},
+                    { name:'Tutor 2',class:'9',topic:'P & C'},{ name:'Tutor 1',class:'8',topic:'P & C'},
+                    { name:'Tutor 2',class:'8',topic:'P & C'},{ name:'Tutor 3',class:'8',topic:'P & C'},
+                    { name:'Tutor 1',class:'7',topic:'P & C'}, { name:'Tutor 2',class:'7',topic:'P & C'},
+                    { name:'Tutor 3',class:'7',topic:'P & C'},{ name:'Tutor 1',class:'6',topic:'P & C'},
+                    { name:'Tutor 2',class:'6',topic:'P & C'},{ name:'Tutor 3',class:'6',topic:'P & C'},
+                    { name:'Tutor 1',class:'5',topic:'P & C'},{ name:'Tutor 2',class:'5',topic:'P & C'},
+                    { name:'Tutor 3',class:'5',topic:'P & C'},];
 
 const allGrade = [5,6,7,8,9,10,11,12];
 
